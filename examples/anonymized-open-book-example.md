@@ -1,10 +1,10 @@
-# Anonymous Example: Open-Book Theory Course
+# 匿名示例：开卷理论课程
 
-This synthetic example contains no real course material.
+这是合成示例，不包含真实课程材料。
 
-| Cue | Principle | Location | Immediate answer action |
+| 题干线索 | 对应原理 | 资料位置 | 立即调用内容 |
 |---|---|---|---|
-| “practice tests knowledge” | relation between practice and knowledge | Unit 2, truth section | define practice, explain direct reality, reject authority as final test, apply to the material |
-| “accumulation and breakthrough” | quantitative and qualitative change | Unit 1, development laws | define both changes, explain preparation and leap, add method implication |
+| “实践检验认识” | 实践与认识的关系 | 第二单元“真理” | 定义实践、解释直接现实性、说明不能以权威代替检验、结合材料 |
+| “积累与突破” | 量变与质变 | 第一单元“发展规律” | 界定量变质变、说明准备与飞跃、补充方法论 |
 
-The key is not memorizing the table itself. The learner should be able to retrieve the principle and outline three scoring points within 30 seconds.
+重点不是背表格，而是能在30秒内定位原理并列出三个采分点。

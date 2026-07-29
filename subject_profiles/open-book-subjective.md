@@ -1,17 +1,17 @@
-# Open-Book Subjective Course Profile
+# 开卷主观题课程 Profile
 
-Use for theory-heavy open-book exams.
+适用于理论密集型开卷考试。
 
-Primary deliverable:
+核心产出：
 
-`question cue → chapter/principle → page/section → answer skeleton → scoring points`
+`题干线索 → 章节/原理 → 页码/位置 → 答题骨架 → 采分点`
 
-Prepare:
+需要准备：
 
-- keyword and synonym index
-- quotations/material cues mapped to principles
-- compare-and-contrast table for confusable concepts
-- 15/20/25-mark answer structures
-- page tabs for high-priority topics
+- 关键词与同义词索引
+- 名言/材料线索与原理映射
+- 易混概念比较表
+- 15/20/25分主观题结构
+- 高频考点页签
 
-Do not confuse access with mastery. Time retrieval and require at least one closed-material outline per high-value question.
+能翻到资料不等于掌握。高价值题至少完成一次脱离资料列提纲，并记录检索时间。

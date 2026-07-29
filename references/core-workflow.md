@@ -1,111 +1,111 @@
-# Core Workflow
+# 核心工作流
 
-## Contents
+## 目录
 
-1. Intake
-2. Exam-ready framework
-3. Priority review plan
-4. Past-paper analysis
-5. Targeted practice
-6. Final review
-7. Mastery tracking
+1. 接收考试信息
+2. 构建考场级知识框架
+3. 安排二轮优先级
+4. 完成往年题
+5. 针对性训练
+6. 考前收口
+7. 掌握度跟踪
 
-## 1. Intake
+## 1. 接收考试信息
 
-Extract, do not guess:
+只提取能够确认的信息，不猜测：
 
-- exam date and remaining study time
-- open-book or closed-book
-- question types, score weights, and time limit
-- teacher-confirmed scope
-- available sources and their provenance
-- learner target, baseline, and stated weaknesses
+- 考试时间与剩余复习时间
+- 开卷或闭卷
+- 题型、分值与考试时长
+- 老师明确划定的范围
+- 资料类型和来源
+- 用户目标、基础和薄弱点
 
-Create a compact source inventory before teaching.
+开始讲解前，先形成简洁的材料清单。
 
-## 2. Build an exam-ready framework
+## 2. 构建可直接上考场的知识框架
 
-Do not output a generic table of contents. For each course unit, include:
+不要输出通用教材目录。每个课程单元至少包括：
 
-- the problem it solves
-- core concepts, models, formulas, diagrams, and assumptions
-- derivation or mechanism
-- relations to previous and later units
-- likely question forms
-- trigger words and answer actions
-- common confusions and omissions
-- exact source location when available
+- 解决什么问题
+- 核心概念、理论、模型、公式、图形和前提
+- 推导或作用机制
+- 与前后章节的联系
+- 可能题型与题干触发词
+- 考场调用方式和采分点
+- 易混概念和常见漏点
+- 能确认时标注准确资料位置
 
-The framework should let the learner move from:
+框架必须让学生完成：
 
-`question cue → chapter/model → method → scorable answer`
+`题干线索 → 章节/模型 → 方法 → 可得分答案`
 
-## 3. Prioritize the second pass
+## 3. 安排二轮复习
 
-Score each topic on:
+综合评估：
 
-- teacher emphasis
-- past-paper frequency
-- expected score value
-- foundational/transfer value
-- short-term trainability
-- learner weakness
+- 老师强调程度
+- 往年题出现频率
+- 预计分值
+- 基础与迁移价值
+- 短期可训练性
+- 用户薄弱程度
 
-Classify:
+分级：
 
-- **A Must-win**: high-frequency, high-value, foundational, or quickly trainable.
-- **B High-value**: likely variants, integrative content, or differentiators.
-- **C Recognition-only**: low probability or low short-term return.
+- **A 必须拿下**：高频、高分、基础，或短期训练能明显提分。
+- **B 重点掌握**：常见变式、综合题或区分中高分的内容。
+- **C 保底识别**：低频或短期投入收益有限。
 
-Give an explicit order and task for each topic. Do not say only “review chapter 3.”
+给出明确顺序和具体任务，不能只写“复习第三章”。
 
-## 4. Solve every supplied past-paper question
+## 4. 完成全部往年题
 
-For each question provide:
+每道题包括：
 
-1. chapter, knowledge point, type, difficulty, and intent
-2. recognition cues and why the selected method applies
-3. full exam-style solution
-4. scoring points or step marks
-5. common wrong paths and quick checks
-6. mother-question pattern and likely variants
+1. 章节、知识点、题型、难度和命题意图
+2. 识别线索以及为什么采用该方法
+3. 完整的考场式答案
+4. 采分点或步骤分
+5. 常见错误和快速检查
+6. 母题结构与可能变式
 
-After all papers, summarize recurring chapters, models, wording, contexts, and traps.
+全部完成后，总结反复出现的章节、模型、问法、材料和陷阱。
 
-## 5. Generate targeted practice
+## 5. 生成针对性训练
 
-Generate practice only for:
+只为以下内容生成练习：
 
-- wrong or unanswered questions
-- high-value weaknesses
-- frequently repeated mother questions
-- changed conditions that break rote memorization
+- 做错或答不出的题
+- 高频、高分值薄弱点
+- 反复出现的母题
+- 改变条件后容易失效的机械记忆
 
-Sequence:
+训练顺序：
 
-`recognition → standard mother question → changed condition → integrated transfer → trap`
+`识别 → 标准母题 → 条件变化 → 综合迁移 → 易错陷阱`
 
-Grade against explicit scoring points and prescribe the smallest next repair.
+按照明确采分点判分，并给出下一步最小修复动作。
 
-## 6. Produce the final 30-minute review
+## 6. 生成考前半小时资料
 
-Use the entire interaction, including errors and repeated questions. Include:
+综合整段对话中的错误、反复提问和作答表现，输出：
 
-- suggested answer order and time allocation
-- must-win topics
-- formulas/models with conditions
-- subjective answer skeletons
-- personal error alerts
-- open-book locator when relevant
-- final self-check
+- 建议答题顺序和时间分配
+- 必须拿下的考点
+- 带使用条件的公式与模型
+- 主观题答题骨架
+- 个性化易错警报
+- 开卷定位表
+- 最后自检
 
-Do not regenerate the first-pass framework.
+不要重新复制一轮知识框架。
 
-## 7. Track mastery
+## 7. 跟踪掌握度
 
-Maintain a compact table:
+维护简洁状态表：
 
-| Topic | Importance | Mastery | Evidence | Next action |
+| 知识点 | 重要度 | 掌握度 | 证据 | 下一步 |
 |---|---:|---:|---|---|
 
-Use evidence such as unaided recall, timed work, variant accuracy, or scoring-point coverage. Do not mark a topic mastered because the learner said “看懂了.”
+证据可以是脱离资料复述、限时解题、变式正确率或采分点覆盖。不能因为用户“看懂了”就标记为已掌握。

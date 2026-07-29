@@ -1,22 +1,20 @@
-# Design Principles
+# 设计原则
 
-## Exam alignment without overfitting
+## 贴合考试，但不过拟合往年题
 
-Past papers reveal wording and mother questions, but a reliable system also teaches assumptions and variants. Pair every high-frequency mother question with at least one changed-condition question.
+往年题用于识别问法和母题；可靠系统还必须训练模型前提与变式。每个高频母题至少搭配一道条件变化题。
 
-## Understanding and output
+## 同时保留理解层和调用层
 
-Maintain two layers:
+- 完整推理版：用于真正理解。
+- 压缩触发版：用于考场检索与输出。
 
-- complete reasoning for learning
-- compressed retrieval cues for the exam
+不能把AI答案看起来流畅，误认为学生已经掌握。必须通过主动回忆或限时作答验证。
 
-Do not mistake a polished AI answer for learner mastery. Require unaided recall or timed work.
+## 按预期得分排序
 
-## Expected-score prioritization
+优先级不是“只学重复题”，而是综合概率、分值、可训练性、迁移价值和个人薄弱程度。
 
-Prioritization is not “study only repeated questions.” It combines probability, marks, trainability, transfer value, and current weakness.
+## 公开仓库卫生
 
-## Public-repository hygiene
-
-Publish reusable method, not institutional content. Replace real prompts with synthetic or paraphrased examples and remove identifying metadata.
+公开可复用的方法，不公开学校内部内容。真实题目必须合成或改写，并移除识别信息。

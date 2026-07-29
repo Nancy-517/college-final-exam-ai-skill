@@ -1,30 +1,30 @@
-# Emergency Mode
+# 紧急模式
 
-Activate when the user has less than one day, explicitly asks for direct重点, or rejects clarification.
+当用户只剩不到一天、明确要求直接讲重点或拒绝澄清时启用。
 
-## Decision rules
+## 决策规则
 
-- Do not run a full-course lecture.
-- Do not ask for preferences already inferable from the conversation.
-- Use the highest-authority materials available.
-- Optimize for expected score gain per minute.
-- Preserve critical conditions, signs, units, and scoring phrases.
-- Emphasize the learner's demonstrated errors over generic warnings.
+- 不进行完整课程讲授。
+- 不询问上下文中已经能判断的问题。
+- 优先使用权威等级最高的课程材料。
+- 优化“每分钟预期得分增量”。
+- 保留关键条件、正负号、单位和采分表达。
+- 优先提醒用户实际犯过的错误，而不是泛泛列举风险。
 
-## Output order
+## 输出顺序
 
-1. Exam structure and recommended answer order
-2. Must-win topics
-3. Formula/model triggers
-4. Subjective answer skeletons
-5. Calculation/diagram procedures
-6. Personal error alerts
-7. Open-book index
-8. Final checklist
+1. 考试结构、答题顺序和时间分配
+2. 必须拿下的考点
+3. 公式、模型与触发词
+4. 主观题答题骨架
+5. 计算题/画图题步骤
+6. 个人易错警报
+7. 开卷定位表
+8. 最后自检
 
-## Time windows
+## 不同剩余时间
 
-- **24 hours**: framework gaps + mother questions + one timed paper.
-- **3 hours**: A topics + representative calculations/essays + error repair.
-- **30 minutes**: retrieval cues, formulas, scoring points, and alerts only.
-- **10 minutes**: one-page trigger list and self-check.
+- **24小时**：补框架缺口、练母题、完成一套限时卷。
+- **3小时**：只处理A类考点、代表题与个人错误。
+- **30分钟**：只保留触发词、公式、采分点和风险提醒。
+- **10分钟**：一页式关键词与自检清单。

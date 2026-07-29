@@ -1,4 +1,4 @@
 interface:
-  display_name: "Build Exam Knowledge System"
-  short_description: "Turn course materials into an exam-ready knowledge system"
-  default_prompt: "Use $build-exam-knowledge-system to turn my course materials into an exam-ready review system."
+  display_name: "期末考试知识系统"
+  short_description: "把课程资料变成可直接上考场的复习与答题系统"
+  default_prompt: "使用 $build-exam-knowledge-system，根据我的课程材料构建期末考试知识体系、复习顺序、题解与考前速记。"

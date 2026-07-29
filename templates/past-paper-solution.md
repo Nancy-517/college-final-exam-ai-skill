@@ -1,42 +1,42 @@
-# Past-Paper Solution
+# 往年题完整解析
 
-## Question
+## 题目
 
-[Use a concise paraphrase when the original is restricted.]
+[受限原题使用简洁改写，不公开复制。]
 
-## Positioning
+## 定位
 
-- Chapter:
-- Knowledge point:
-- Type:
-- Difficulty / likely marks:
-- Command words:
-- Examiner intent:
+- 所属章节：
+- 对应知识点：
+- 题型：
+- 难度/预计分值：
+- 指令词：
+- 命题意图：
 
-## Reasoning
+## 解题思路
 
-1. Recognition cue:
-2. Applicable method and conditions:
-3. Logical sequence:
+1. 识别线索：
+2. 适用方法和条件：
+3. 逻辑顺序：
 
-## Full exam-style answer
+## 完整考场答案
 
-[Show all necessary work.]
+[写出必要步骤和论证。]
 
-## Scoring points
+## 采分点
 
-- [ ] 
+- [ ]
 
-## Common errors and checks
+## 常见错误与检查
 
-- Error:
-- Why:
-- Check:
+- 错误：
+- 原因：
+- 检查：
 
-## Mother question and variants
+## 母题与变式
 
-- General pattern:
-- Changed number:
-- Changed condition:
-- Changed question form:
-- Integrated variant:
+- 通用母题：
+- 数字变化：
+- 条件变化：
+- 问法变化：
+- 综合变式：

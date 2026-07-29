@@ -1,39 +1,39 @@
-# Customization Guide
+# 定制指南
 
-Customize the workflow along three axes.
+从三个维度定制工作流。
 
-## Domain
+## 领域
 
-Adapt representations and answer checks:
+根据学科改变表征方式和检查方法：
 
-- quantitative: conditions, formulas, derivations, units, verification
-- social science: concept, mechanism, evidence, counterargument, implication
-- law: issue, rule, elements, application, conclusion
-- accounting: transaction, account, direction, entry, balance check
-- open-book theory: cue, chapter, location, scoring points
+- 数理类：条件、公式、推导、单位、验算
+- 社会科学：概念、机制、证据、反面条件、现实含义
+- 法学：争点、规则、构成要件、适用、结论
+- 会计：业务、科目、增减、借贷、平衡检查
+- 开卷理论课：触发词、章节、位置、答题骨架、采分点
 
-## Course
+## 课程
 
-Extract the teacher's:
+提取老师实际使用的：
 
-- terminology and symbol conventions
-- preferred models and examples
-- recurring question forms
-- scoring language
-- boundaries and excluded topics
+- 术语和符号口径
+- 偏好的模型与案例
+- 反复出现的问法
+- 采分表达
+- 考试边界与明确排除内容
 
-Do not replace these with a generic disciplinary outline.
+不能用通用学科目录替代本课程框架。
 
-## Learner
+## 学习者
 
-Adapt to:
+根据以下内容调整：
 
-- remaining time and target score
-- visual, verbal, or procedural preference
-- need for full derivations versus rapid templates
-- error pattern
-- open- or closed-book retrieval needs
+- 剩余时间和目标分数
+- 视觉、语言或步骤型偏好
+- 需要完整推导还是快速模板
+- 个人错误模式
+- 开卷定位或闭卷回忆需求
 
-Maintain a mastery table and use it to decide the next task.
+维护掌握度状态表，用它决定下一轮复习和出题。
 
-The extended Five-Stage Exam Review Workflow is maintained on the `five-stage-workflow` branch.
+完整 Five-Stage Exam Review Workflow 位于 `five-stage-workflow` 分支。

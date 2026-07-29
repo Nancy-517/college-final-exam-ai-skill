@@ -1,17 +1,17 @@
-# Economics and Social Science Profile
+# 经济学与社会科学课程 Profile
 
-Use for economics, management, public policy, development studies, and related theory courses.
+适用于经济学、管理学、公共政策、发展研究和相关理论课程。
 
-Organize each topic as:
+每个知识点按以下结构组织：
 
-`phenomenon/problem → assumptions → mechanism/model → diagram/formula/evidence → result → distribution/policy implication → limitation`
+`现象/问题 → 前提 → 机制/模型 → 图形/公式/证据 → 结果 → 分配或政策含义 → 局限`
 
-For policy questions, identify:
+政策题必须识别：
 
-- affected variables and direction
-- transmission mechanism
-- winners, losers, and total effect
-- short-run versus long-run outcomes
-- assumptions that could reverse the conclusion
+- 受影响的变量及方向
+- 传导机制
+- 谁受益、谁受损以及总效应
+- 短期与长期结果
+- 哪些条件变化可能改变结论
 
-For essays, turn each paragraph into a scorable claim supported by mechanism or course evidence.
+论述题的每一段都应形成有机制或课程证据支撑的采分论点。

@@ -1,21 +1,17 @@
-# Source and Non-Fabrication Policy
+# 来源标注与不编造原则
 
-## Source order
+## 材料优先级
 
-Use this default hierarchy:
+1. 老师明确划定的考试范围
+2. 用户提供的同课程/同教师往年题
+3. 课堂PPT与讲义
+4. 作业和课堂例题
+5. 指定教材
+6. 通用学科知识
 
-1. teacher-confirmed exam scope
-2. same-course/same-teacher past papers supplied by the user
-3. teacher slides and class notes
-4. assignments and worked class examples
-5. assigned textbook
-6. general disciplinary knowledge
+该顺序用于贴合考试口径，不代表材料一定客观正确。若课堂口径与标准教材存在明显冲突，必须分别说明“课程口径”和“通用口径”。
 
-The hierarchy guides exam alignment, not objective truth. If a course source contains an apparent mistake, identify the conflict and separate “course convention” from “standard convention.”
-
-## Labels
-
-Use labels when provenance matters:
+## 来源标签
 
 - `【老师重点】`
 - `【往年题】`
@@ -25,23 +21,23 @@ Use labels when provenance matters:
 - `【通用知识补充】`
 - `【材料未体现】`
 
-Do not attach fake page numbers or citations. If page extraction is unreliable, cite the file and section heading.
+不得编造页码、引用或老师观点。若页码提取不可靠，标注文件名和章节标题。
 
-## Abstention
+## 何时停止推断
 
-Say `材料未体现` when:
+出现以下情况时写明 `材料未体现`：
 
-- the teacher's position is unknown
-- a likely exam scope cannot be inferred
-- a requested answer key is absent
-- a formula convention differs across textbooks
+- 无法确认老师的具体观点
+- 不能从材料推断考试范围
+- 用户要求的标准答案不在材料中
+- 不同教材存在不同公式或符号口径
 
-Then either ask for the missing source or provide a clearly labeled general explanation.
+随后可以请求补充材料，或提供明确标注的通用解释。
 
-## Copyright and privacy
+## 版权与隐私
 
-- Analyze materials the user is authorized to use.
-- Do not publish or redistribute raw internal course files.
-- Quote only the minimum needed for analysis.
-- Anonymize examples before adding them to a public repository.
-- Never expose student names, IDs, grades, teacher contact information, or access links.
+- 只分析用户有权使用的材料。
+- 不公开或转发原始内部课程文件。
+- 只引用完成分析所需的最少内容。
+- 公开示例必须改写并匿名化。
+- 不暴露姓名、学号、成绩、教师联系方式和内部访问链接。

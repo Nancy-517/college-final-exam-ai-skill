@@ -1,22 +1,22 @@
-# Subjective Answer Template
+# 主观题答题模板
 
-- Trigger words:
-- Chapter / principle:
-- Command word: define / explain / compare / evaluate / apply
+- 题干触发词：
+- 章节/原理：
+- 指令词：解释 / 比较 / 评价 / 应用
 
-## Answer skeleton
+## 答题骨架
 
-1. State the relevant concept or principle.
-2. Define key terms and conditions.
-3. Explain the mechanism in ordered points.
-4. Apply it to the supplied material or a relevant example.
-5. Give implications, limitations, or method conclusion when required.
+1. 点明相关概念、原理或模型。
+2. 界定关键词和成立条件。
+3. 分点解释作用机制。
+4. 结合题目材料或合适案例。
+5. 按题意给出影响、局限、启示或方法论总结。
 
-## Scoring checklist
+## 采分检查
 
-- [ ] Correct principle/model
-- [ ] Accurate concepts
-- [ ] Mechanism, not conclusion only
-- [ ] Material-specific application
-- [ ] Counter-condition or limitation where relevant
-- [ ] Clear conclusion
+- [ ] 原理/模型正确
+- [ ] 概念准确
+- [ ] 写出机制而非只有结论
+- [ ] 结合具体材料
+- [ ] 必要时写反面条件或局限
+- [ ] 结论明确

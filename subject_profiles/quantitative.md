@@ -1,14 +1,14 @@
-# Quantitative Course Profile
+# 数理与计算类课程 Profile
 
-Use for mathematics, statistics, forecasting, engineering, finance calculations, and model-heavy economics.
+适用于数学、统计、经济预测、工科、金融计算和模型密集型经济学课程。
 
-Emphasize:
+重点处理：
 
-- definition and condition of every formula
-- recognition cues and model selection
-- derivation where the course expects it
-- units, signs, bounds, and reasonableness checks
-- standard mother question plus changed-condition variants
-- partial-credit steps
+- 每个公式的定义与使用条件
+- 题干触发词和模型选择
+- 课程要求的推导过程
+- 单位、正负号、边界和合理性检查
+- 标准母题与条件变化题
+- 能获得步骤分的完整书写
 
-Mastery requires unaided solution of one standard question and one variant.
+至少脱离答案完成一道标准题和一道变式题，才能标记为掌握。

@@ -1,20 +1,20 @@
-# Calculation Answer Template
+# 计算题答题模板
 
-1. Identify the model and why it applies.
-2. List known variables with units.
-3. State assumptions and formula.
-4. Align symbols with the question.
-5. Substitute values step by step.
-6. Compute and retain appropriate precision.
-7. Interpret the result.
-8. Check units, sign, magnitude, boundary conditions, and economic/physical meaning.
+1. 判断模型，并说明为什么适用。
+2. 整理已知量、符号与单位。
+3. 写明假设、使用条件和公式。
+4. 将题目变量与公式符号对齐。
+5. 逐步代入。
+6. 完成运算并保留合理精度。
+7. 解释结果。
+8. 检查单位、正负、数量级、边界条件和现实含义。
 
-## Scoring points
+## 步骤分
 
-| Step | Work | Marks/evidence |
+| 步骤 | 作答内容 | 得分证据 |
 |---|---|---|
-| Model recognition | | |
-| Formula | | |
-| Substitution | | |
-| Calculation | | |
-| Interpretation/check | | |
+| 模型识别 | | |
+| 公式 | | |
+| 代入 | | |
+| 运算 | | |
+| 解释与检查 | | |

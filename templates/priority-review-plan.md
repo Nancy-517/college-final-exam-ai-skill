@@ -1,18 +1,18 @@
-# Priority Review Plan
+# 二轮抢分复习计划
 
-| Priority | Topic | Evidence of importance | Likely type | Score value | Mastery evidence | Review task |
+| 优先级 | 知识点 | 重要性证据 | 可能题型 | 预计分值 | 掌握证据 | 复习任务 |
 |---|---|---|---|---:|---|---|
 | A | | | | | | |
 
-## Order
+## 复习顺序
 
-1. Stable foundation points:
-2. High-frequency weak points:
-3. Integrative/high-difficulty points:
-4. Recognition-only topics:
+1. 先拿稳定基础分：
+2. 再补高频薄弱点：
+3. 再练综合/高难题：
+4. 最后保底识别：
 
-## Stop rules
+## 停止标准
 
-- Move on after unaided recall plus one correct standard question.
-- Add a variant before marking a high-value topic mastered.
-- Do not spend high-value time polishing already stable low-score content.
+- 能脱离资料复述，并正确完成一道标准题后，才进入下一项。
+- 高价值知识必须再完成一道变式题，才能标记为掌握。
+- 不在已稳定的低分值内容上过度打磨。

@@ -1,33 +1,33 @@
-# Final 30 Minutes
+# 考前最后30分钟
 
-## Exam plan
+## 考试安排
 
-- Answer order:
-- Time allocation:
-- Must-win questions:
-- Last-check reserve:
+- 答题顺序：
+- 时间分配：
+- 必须拿下：
+- 最后检查时间：
 
-## Personal risk alerts
+## 个人易错警报
 
-1. 
+1.
 
-## Formula/model triggers
+## 公式/模型触发
 
-| Cue | Condition | Formula/model | One critical warning |
+| 题干线索 | 使用条件 | 公式/模型 | 一个关键警告 |
 |---|---|---|---|
 | | | | |
 
-## Subjective skeletons
+## 主观题骨架
 
-| Cue | Principle | 3–6 scoring points | Opening / ending |
+| 题干线索 | 原理 | 3–6个采分点 | 开头/结尾 |
 |---|---|---|---|
 | | | | |
 
-## Final check
+## 最后自检
 
-- [ ] Answered the command word
-- [ ] Stated conditions before formulas
-- [ ] Marked axes and movement on diagrams
-- [ ] Included mechanism and material application
-- [ ] Checked units, signs, precision, and balances
-- [ ] Left time to review omissions
+- [ ] 回答了题目指令词
+- [ ] 公式前写了使用条件
+- [ ] 图形有坐标和移动方向
+- [ ] 主观题有机制和材料结合
+- [ ] 检查单位、正负号、精度与借贷平衡
+- [ ] 留出时间检查漏题与漏点

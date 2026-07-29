@@ -1,35 +1,35 @@
-# Exam-Ready Knowledge Framework
+# 可直接上考场的知识框架
 
-## Exam constraints
+## 考试约束
 
-| Item | Confirmed information | Source |
+| 项目 | 已确认信息 | 来源 |
 |---|---|---|
-| Date / time | | |
-| Open / closed book | | |
-| Question types and scores | | |
-| Teacher-confirmed scope | | |
+| 考试时间 | | |
+| 开卷/闭卷 | | |
+| 题型与分值 | | |
+| 老师明确范围 | | |
 
-## Course's central question
+## 学科总问题
 
-State what the course studies and why its units connect.
+说明这门课研究什么，以及各章节为什么连接在一起。
 
-## Course logic
+## 课程逻辑
 
-`foundation → core mechanism/model → application → evaluation`
+`基础概念 → 核心机制/模型 → 应用 → 评价`
 
-## Unit template
+## 章节模板
 
-### Unit: [name]
+### 章节：[名称]
 
-- Problem solved:
-- Core concepts:
-- Assumptions:
-- Mechanism/derivation:
-- Formula/diagram:
-- Main conclusion:
-- Links to other units:
-- Question cues:
-- Likely question types:
-- Answer action/scoring points:
-- Common confusions:
-- Source location:
+- 本章解决的问题：
+- 核心概念：
+- 模型前提：
+- 机制/推导：
+- 公式/图形：
+- 核心结论：
+- 与其他章节的关系：
+- 题干触发词：
+- 常见题型：
+- 考场动作/采分点：
+- 易混点：
+- 资料位置：

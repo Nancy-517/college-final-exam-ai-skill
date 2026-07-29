@@ -1,13 +1,13 @@
-# Open-Book Locator
+# 开卷考试快速定位表
 
-| Question cue / keyword | Chapter/model | File and location | Immediate answer action | Scoring points |
+| 题干关键词/名言/材料 | 章节/模型 | 文件与位置 | 立即调用内容 | 采分点 |
 |---|---|---|---|---|
 | | | | | |
 
-## Print preparation
+## 打印准备
 
-- Add page tabs for A-level topics.
-- Put similar concepts in one comparison table.
-- Keep formula conditions beside formulas.
-- Mark diagrams with axes and movement direction.
-- Do not rely on search alone; prepare synonym cues.
+- A级考点添加页签。
+- 易混概念放入同一张比较表。
+- 公式旁边必须保留使用条件。
+- 图形标注坐标和移动方向。
+- 为同义词准备多个检索入口，不能只依赖电子搜索。

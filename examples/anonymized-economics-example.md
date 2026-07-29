@@ -1,26 +1,26 @@
-# Anonymous Example: Policy Analysis Course
+# 匿名示例：政策分析课程
 
-This synthetic example illustrates the method. It is not copied from a real institution, teacher, slide deck, or past paper.
+这是为展示方法而合成的示例，不来自任何真实学校、教师、PPT或往年题。
 
-## Material signals
+## 材料信号
 
-- Teacher emphasis: policy instruments and welfare effects
-- Past-paper pattern: one diagram question and one evaluation essay
-- Learner weakness: can state conclusions but omits the transmission mechanism
+- 老师重点：政策工具与福利效应
+- 往年题规律：一道画图题、一道评价题
+- 学习者薄弱点：会背结论，但常漏写传导机制
 
-## Exam-ready topic card
+## 考场级知识卡
 
-### Import tariff in a small economy
+### 小国进口关税
 
-- Problem: how an import tax changes domestic price, production, consumption, imports, and welfare
-- Assumption: the country cannot affect the world price
-- Mechanism: tariff raises the domestic price by the tariff amount; production expands, consumption contracts, and imports fall
-- Distribution: producers and government gain; consumers lose
-- Total welfare: two distortion losses remain
-- Question cues: tariff, small country, consumer surplus, producer surplus, government revenue
-- Answer action: draw supply-demand diagram, label price change and quantities, then decompose welfare
-- Common omission: stating “welfare falls” without identifying production and consumption distortions
+- 解决问题：进口税如何影响国内价格、生产、消费、进口与福利
+- 前提：本国无法影响世界价格
+- 机制：关税使国内价格提高；国内生产增加、消费减少、进口下降
+- 分配：生产者和政府受益，消费者受损
+- 总福利：存在生产扭曲与消费扭曲损失
+- 触发词：关税、小国、消费者剩余、生产者剩余、政府收入
+- 考场动作：画供求图，标出价格与数量变化，再分解福利
+- 常见漏点：只写“福利下降”，没有说明两类无谓损失
 
-## Targeted variant
+## 针对性变式
 
-Change the assumption from a small country to a large country. Ask which additional effect appears and under what condition a tariff could improve national welfare. This tests the assumption rather than rote reproduction.
+把“小国”改为“大国”，追问新增的贸易条件效应，以及关税在什么条件下可能改善本国福利。该变式检验模型前提，而不是机械复现。
