@@ -1,23 +1,23 @@
 ---
 name: build-custom-exam-workflow
-description: Run a customized five-stage exam review for one domain, course, or learner using their authorized teaching materials, exam priorities, past papers, observed mistakes, and learning preferences. Use when the user wants a personalized course framework, score-first second pass, complete past-paper solutions, targeted variants, and a final 30-minute review.
+description: 针对某个领域、某门课程或某位学习者，使用其有权使用的教学资料、考试重点、往年题、错误记录和学习偏好，执行个性化五阶段期末复习。适用于需要学科知识体系、抢分型二轮复习、完整往年题详解、薄弱点变式训练和考前半小时提醒的场景。Run a customized five-stage exam review for one domain, course, or learner.
 ---
 
-# Build Custom Exam Workflow
+# 构建个性化五阶段复习工作流
 
-Complete all five stages unless the user explicitly skips one:
+除非用户明确跳过，否则完成全部五个阶段：
 
-1. Build a course-specific, exam-ready knowledge system from the actual teaching materials.
-2. Rank the second-pass review by expected score return and learner gaps.
-3. Complete every supplied past-paper question with reasoning, scoring points, errors, and variants.
-4. Generate targeted practice only for weak or high-value question types.
-5. Generate a final 30-minute review from the whole interaction and mastery evidence.
+1. 根据实际教学材料，构建能直接上考场的学科知识体系。
+2. 根据预期得分收益和个人缺口，安排二轮复习顺序。
+3. 完成用户提供的全部往年题，附思路、采分点、错误与变式。
+4. 只针对薄弱或高价值题型生成练习。
+5. 根据整段对话和掌握证据生成考前半小时资料。
 
-Read [../../references/source-policy.md](../../references/source-policy.md) before using course sources. Read [five-stage-workflow.md](five-stage-workflow.md) for the full stage requirements.
+使用课程材料前读取 [../../references/source-policy.md](../../references/source-policy.md)。完整阶段要求见 [five-stage-workflow.md](five-stage-workflow.md)。
 
-Maintain:
+持续维护：
 
-| Topic | Importance | Mastery | Evidence | Next action |
+| 知识点 | 重要度 | 掌握度 | 证据 | 下一步 |
 |---|---:|---:|---|---|
 
-Do not mark mastery from passive reading alone.
+不能仅凭被动阅读或“看懂了”就标记为掌握。
