@@ -13,6 +13,7 @@
 - [development-economics.md](subjects/development-economics.md)：开卷考试案例。
 - [international-economics.md](subjects/international-economics.md)：框架、政策福利与计算题案例。
 - [international-economics-study-pack.md](artifacts/international-economics-study-pack.md)：真实生成的完整复习成果样本。
+- [original-notes/](original-notes/)：学生本人原始文字笔记与资料筛选说明。
 - [provenance.md](provenance.md)：内容来源和可追溯性说明。
 - [rights-and-redaction.md](rights-and-redaction.md)：公开发布边界与待授权材料。
 - `visuals/`：人机协作闭环和两周期末冲刺策略图。
