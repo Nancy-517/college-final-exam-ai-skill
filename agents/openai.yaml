@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Exam Knowledge System"
+  short_description: "Turn course materials into an exam-ready knowledge system"
+  default_prompt: "Use $build-exam-knowledge-system to turn my course materials into an exam-ready review system."

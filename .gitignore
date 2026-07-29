@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.key
+private-materials/
+course-materials/
+sources/
