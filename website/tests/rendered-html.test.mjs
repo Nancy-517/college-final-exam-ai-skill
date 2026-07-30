@@ -21,6 +21,9 @@ test("server-renders the exam workbench", async () => {
   const html = await response.text();
   assert.match(html, /<title>期末周 AI 工作台/);
   assert.match(html, /上传资料/);
+  assert.match(html, /考试逆向工程/);
+  assert.match(html, /北航经济学学生真实验证/);
+  assert.match(html, /做透往年题/);
   assert.match(html, /创建我的复习项目/);
   assert.match(html, /真实冲刺案例 Mock/);
   assert.match(html, /github/i);

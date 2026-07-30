@@ -274,6 +274,7 @@ export default function Home() {
       <nav className="nav">
         <a className="brand" href="#top"><span className="brand-mark">90+</span><span>期末周 AI 工作台</span></a>
         <div className="nav-links">
+          <a href="#method">方法亮点</a>
           <a href="#workspace">开始复习</a>
           <a href="#results">分析结果</a>
           <a className="github-link" href="https://github.com/Nancy-517/college-final-exam-ai-skill" target="_blank" rel="noreferrer">开源项目 ↗</a>
@@ -282,25 +283,54 @@ export default function Home() {
 
       <section className="hero workbench-hero" id="top">
         <div className="hero-copy">
-          <div className="eyebrow"><span /> 从资料堆到考场答案</div>
-          <h1>上传资料，<br /><em>直接开工。</em></h1>
-          <p className="hero-lead">把老师 PPT、重点、作业和往年题放进同一个工作台，生成知识地图、抢分顺序、题解任务和考前提醒。</p>
+          <div className="eyebrow"><span /> 北航经济学学生真实验证 · 通用开源 Skill</div>
+          <h1>把资料，<br /><em>编译成分数。</em></h1>
+          <p className="hero-lead">不是让 AI 泛泛总结 PPT。先反推老师怎么考，再生成知识地图、抢分顺序、往年题拆解、薄弱点变式和最后 30 分钟警报。</p>
           <div className="hero-actions">
             <a className="button primary" href="#workspace">创建我的复习项目</a>
-            <button className="button secondary" type="button" onClick={loadMock}>查看真实冲刺 Mock</button>
+            <button className="button secondary" type="button" onClick={loadMock}>加载 90+ 冲刺 Mock</button>
           </div>
-          <p className="microcopy">资料仅在当前浏览器读取 · 不自动保存 · 结果不替代老师口径</p>
+          <p className="microcopy">约两周 · 多门课程 90+ · 北航为验证场景，非学校官方项目</p>
         </div>
         <div className="dashboard-preview">
-          <div className="preview-head"><span>发展经济学 / 今晚速成</span><b>90+</b></div>
+          <div className="preview-head"><span>EXAM REVERSE ENGINEERING</span><b>90+</b></div>
           <div className="preview-files">
-            <span>老师重点.pdf <i>已解析</i></span>
-            <span>往年题.pdf <i>已解析</i></span>
-            <span>错题笔记.md <i>已解析</i></span>
+            <span>老师重点.pdf <i>CONFIRMED</i></span>
+            <span>往年题.pdf <i>HIGH SIGNAL</i></span>
+            <span>AI 补充知识 <i>SUPPLEMENTARY</i></span>
           </div>
-          <div className="preview-score"><strong>A 级考点</strong><em>4</em><strong>待补薄弱点</strong><em>3</em></div>
-          <div className="preview-route">建体系 → 抢稳定分 → 母题 → 变式 → 半小时</div>
+          <div className="preview-score"><strong>先拿稳定分</strong><em>A</em><strong>只练薄弱点</strong><em>03</em></div>
+          <div className="preview-route">题干线索 → 章节模型 → 答题路径 → 采分点</div>
         </div>
+      </section>
+
+      <section className="method-section" id="method">
+        <div className="method-intro">
+          <p className="kicker">WHY THIS SKILL / 为什么不同</p>
+          <h2>一套考试逆向工程，<br />不是一份漂亮笔记。</h2>
+          <p>知识只有能被识别、调用并写成采分答案，才真正属于考场。工作台把每份材料放回证据层级，再从题型和分值反推你的复习路径。</p>
+          <a href="https://github.com/Nancy-517/college-final-exam-ai-skill" target="_blank" rel="noreferrer">查看完整 SKILL.md ↗</a>
+        </div>
+        <div className="method-grid">
+          <article><span>01 / SOURCE</span><h3>不混淆老师口径</h3><p>把内容分成已确认、高频推断与补充知识；不知道就明确说不知道。</p></article>
+          <article><span>02 / REVERSE</span><h3>先研究考试</h3><p>从题型、分值、重复母题和老师强调反推复习范围，不从教材第一页平均用力。</p></article>
+          <article><span>03 / SCORE</span><h3>先拿稳定分</h3><p>综合概率、分值、前置价值、短期可训练性和个人薄弱点安排二轮顺序。</p></article>
+          <article><span>04 / OUTPUT</span><h3>知识变成采分点</h3><p>题干触发词连接章节、模型、公式、图形、答题结构和最容易遗漏的步骤。</p></article>
+          <article><span>05 / TRANSFER</span><h3>母题必须能变式</h3><p>改变数字、假设、政策方向和现实背景，检查你掌握的是机制而不是答案。</p></article>
+          <article><span>06 / CLOSE</span><h3>半小时个性化收口</h3><p>不再复制长笔记，只提醒你做错、混淆、反复提问和最可能漏分的内容。</p></article>
+        </div>
+      </section>
+
+      <section className="workflow-ribbon" aria-label="五阶段复习工作流">
+        <div><span>01</span><b>建体系</b><small>结合本学期 PPT</small></div>
+        <i>→</i>
+        <div><span>02</span><b>抢稳定分</b><small>按收益排顺序</small></div>
+        <i>→</i>
+        <div><span>03</span><b>做透往年题</b><small>拆思路与采分点</small></div>
+        <i>→</i>
+        <div><span>04</span><b>只补不会的</b><small>母题与条件变式</small></div>
+        <i>→</i>
+        <div><span>05</span><b>考前收口</b><small>最后 30 分钟警报</small></div>
       </section>
 
       <section className="workspace-shell" id="workspace">
@@ -366,8 +396,8 @@ export default function Home() {
       </section>
 
       <section className="case-section">
-        <div><p className="kicker">REAL CASE / 真实验证</p><h2>Mock 不是凭空编的</h2><p>它来自一次约两周的期末冲刺：从“帮我整理重点”，迭代到学科框架、二轮抢分、往年题详解、专项变式和最后半小时提醒。用户反馈多门课程取得满意的 90+。</p></div>
-        <div className="case-chain"><span>考试约束识别</span><span>材料优先级</span><span>往年题反推</span><span>答题模板化</span><span>考场快速调用</span></div>
+        <div><p className="kicker">REAL CASE / 北航学生真实验证</p><h2>90+ 不是一句口号，<br />而是一段被复盘的过程。</h2><p>方法源自北京航空航天大学经济学学生约两周的真实期末冲刺。人机协作从“帮我整理重点”，逐步迭代为考试约束识别、材料证据排序、往年题反推、采分模板、变式训练和考前收口。</p><small>北航经济学期末考为验证场景。本项目非北京航空航天大学官方项目，也不公开校内课件或未授权试题。</small></div>
+        <div className="case-chain"><span>约束驱动</span><span>逆向工程</span><span>机制链理解</span><span>双层输出</span><span>从混乱资料到考场调用</span></div>
       </section>
 
       <footer><div className="brand"><span className="brand-mark">90+</span><span>期末周 AI 工作台</span></div><p>先拿稳定分，再补高分题。</p><p>MIT License · Open source.</p></footer>
