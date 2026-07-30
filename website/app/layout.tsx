@@ -2,9 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "大学生期末周 AI 速通 90+",
+  metadataBase: new URL("https://college-final-ai-90plus.wangyiqing517517.chatgpt.site"),
+  title: "期末周 AI 工作台｜大学生速通 90+",
   description:
-    "把老师 PPT、考试重点、作业和往年题转化为能直接上考场的知识框架、答题模板与考前速记。",
+    "直接上传老师 PPT、考试重点、作业和往年题，生成知识地图、抢分顺序、题解任务与考前 30 分钟清单。",
   keywords: [
     "大学生期末考试",
     "AI复习",
@@ -18,6 +19,19 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
+  },
+  openGraph: {
+    title: "期末周 AI 工作台｜上传资料，直接开工",
+    description: "从老师 PPT、重点和往年题，生成一套能直接上考场的复习系统。",
+    images: [{ url: "/og.png", width: 1678, height: 941 }],
+    locale: "zh_CN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "期末周 AI 工作台｜上传资料，直接开工",
+    description: "从老师 PPT、重点和往年题，生成一套能直接上考场的复习系统。",
+    images: ["/og.png"],
   },
 };
 
